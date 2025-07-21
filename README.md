@@ -1,4 +1,4 @@
-# Temperature Scales - Golang
+# Temperature Scales - Golang - DIO
 
 This is a simple project developed during the Go Developer course at DIO. The goal is to demonstrate temperature conversion between different scales using the Go language.
 
