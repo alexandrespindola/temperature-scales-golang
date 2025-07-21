@@ -1,4 +1,3 @@
-
 # Temperature Scales - Golang
 
 This is a simple project developed during the Go Developer course at DIO. The goal is to demonstrate temperature conversion between different scales using the Go language.
@@ -10,9 +9,7 @@ The project performs the conversion of temperature from Kelvin to Celsius using 
 ## How to Run
 
 1. Make sure you have Go installed on your machine.
-
 2. Clone this repository or download the files.
-
 3. In the terminal, navigate to the project folder and run:
 
    ```bash
